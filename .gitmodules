@@ -1,0 +1,6 @@
+[submodule "trello-app-api"]
+	path = trello-app-api
+	url = https://github.com/khuonglt21/trello-app-api.git
+[submodule "trello-app-client"]
+	path = trello-app-client
+	url = https://github.com/khuonglt21/trello-app-client.git
